@@ -1,4 +1,5 @@
 *** Settings ***
+Documentation    It is for Commonly used Page Object Model
 Library  SeleniumLibrary
 Variables  ../Locators/LocatorsLoginPage.py
 Variables  ../TestData/Testdata.py
