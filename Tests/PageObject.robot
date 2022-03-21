@@ -21,3 +21,6 @@ Verify Successful Login to OrangeHRM
     Verify Welcome Text is Visible
     HomePage.Verify Welcome Text is Visible
     HomePage.Logout
+
+Feature 1 Test
+    log    Executing Feature 1
