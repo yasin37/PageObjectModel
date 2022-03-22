@@ -14,7 +14,7 @@ Test Teardown    Common.close the app browser
 *** Test Cases ***
 Verify Successful Login to OrangeHRM
     [Documentation]    This test case verifies that the user is able to successfully Login and Logout to OrangeHRM using Page Object
-    [Tags]    Smoke    HappyPath
+    [Tags]    Smoke    HappyPath2
     LoginPage.Input Username
     LoginPage.Input MyPassword
     LoginPage.Click Login
